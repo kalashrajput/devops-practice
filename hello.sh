@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "I wanna be a devops engineer"
+echo "Hello from feature branch"
 echo "Git is awesome"
 
