@@ -3,3 +3,4 @@ v2 - all good
 v3 - all good
 BUG INTRODUCED
 v5 - bug still present
+v6 - bug still present
